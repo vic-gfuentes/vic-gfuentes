@@ -1,8 +1,4 @@
 ### Hi there my name is Victor !👋
-
-<!--
-**VitorshGF/VitorshGF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## I'm a junior developer and student!
 - 🛠 I’m currently working an application to manage the University Scholarship Requirements!
 - 📚 I’m currently learning everything 🤣
