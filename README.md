@@ -1,9 +1,11 @@
-### Hi there my name is Victor !👋
+## Hi there my name is Victor !👋
 ## I'm a junior developer and student!
-- 🛠 I’m currently working an application to manage the University Scholarship Requirements!
+- 🛠 I’m currently working an application to manage the University Scholarship Requirements as a practice to learn MVC in Java
 - 📚 I’m currently learning everything 🤣
 - 💎 2020 Goals: Complete my bachelors degree !
 
+## Plan:
+- I want to learn a few backend technologies, I will move to a different framework as soon as I complete JSP / SpringMVC.
 
 ### Languages and Tools:
 
