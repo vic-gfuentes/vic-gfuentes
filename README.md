@@ -1,11 +1,11 @@
 ## Hi there my name is Victor !👋
-## I'm a junior developer and student!
-- 🛠 I’m currently working an application to manage the University Scholarship Requirements as a practice to learn MVC in Java
-- 📚 I’m currently learning everything 🤣
+## I'm a developer and student!
+- 🛠 I’m currently working an application to manage the University Scholarship Requirements as a practice to learn MVC in Java as well as React Rails integration
+- 📚 Currently learning everything 🤣
 - 💎 2020 Goals: Complete my bachelors degree !
 
 ## Plan:
-- I want to learn a few backend technologies, I will move to a different framework as soon as I complete JSP / SpringMVC.
+- I want to learn a few backend technologies, I will move to a different framework as soon as I complete Rails / React.
 
 ### Languages and Tools:
 
@@ -20,6 +20,8 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="TERMINAL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
+<img align="left" alt="Rails" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 <br />
 
