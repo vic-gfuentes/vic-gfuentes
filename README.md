@@ -1,11 +1,8 @@
 ## Hi there my name is Victor !👋
 ## I'm a developer and student!
-- 🛠 I’m currently working an application to manage the University Scholarship Requirements as a practice to learn MVC in Java as well as React Rails integration
+- 🛠 I’m currently working an application to manage my University Scholarship Requirements as a practice to learn MVC in Java as well as React Rails integration
 - 📚 Currently learning everything 🤣
-- 💎 2020 Goals: Complete my bachelors degree !
 
-## Plan:
-- I want to learn a few backend technologies, I will move to a different framework as soon as I complete Rails / React.
 
 ### Languages and Tools:
 
