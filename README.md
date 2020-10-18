@@ -1,5 +1,5 @@
 ## Hi there my name is Victor !👋
-- 🛠 Working on an application to manage my University Scholarship Requirements as a practice to learn MVC in Java.
+- 🛠 I'm working on an application to manage my University Scholarship Requirements as a practice to learn MVC in Java.
 - 📚 Currently learning everything 🤣
 
 
