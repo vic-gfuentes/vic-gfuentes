@@ -1,6 +1,5 @@
 ## Hi there my name is Victor !👋
-## I'm a developer and student!
-- 🛠 I’m currently working an application to manage my University Scholarship Requirements as a practice to learn MVC in Java as well as React Rails integration
+- 🛠 Working on an application to manage my University Scholarship Requirements as a practice to learn MVC in Java.
 - 📚 Currently learning everything 🤣
 
 
