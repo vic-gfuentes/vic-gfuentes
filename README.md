@@ -1,4 +1,4 @@
-## Hi there my name is Victor !👋
+## Hey there!! Victor here 👋
 - 🛠 Full-Stack react-rails web developer.
 - ⚓️ Docker sailor and Kubernetes pirate.
 - 📚 Everyday learner.
