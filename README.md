@@ -34,5 +34,5 @@
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-
+### Cool Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vic-gfuentes)](https://github.com/anuraghazra/github-readme-stats)
