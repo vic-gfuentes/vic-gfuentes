@@ -36,5 +36,5 @@
 ***
 ### Cool Stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vic-gfuentes&count_private=true&hide=contribs,stars)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vic-gfuentes&count_private=true&hide=contribs,stars&theme=react)
 
