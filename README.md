@@ -36,4 +36,5 @@
 ***
 ### Cool Stats:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vic-gfuentes)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vic-gfuentes&count_private=true&hide=contribs,stars)
+
