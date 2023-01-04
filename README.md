@@ -3,7 +3,7 @@
 - ⚓️ Docker sailor and Kubernetes pirate.
 - 📚 Everyday learner.
 
-Most of the code I've written is out there lost in the savage lands of private organization repositories, be careful out there, you might get lost!
+> Most of the code I've written is out there lost in the savage lands of private organization repositories, be careful out there, you might get lost!
 
 ### Languages and Tools:
 
