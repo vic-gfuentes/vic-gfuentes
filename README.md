@@ -1,7 +1,7 @@
 ## Hey there!! Victor here 👋
-- 🛠 Full-Stack react-rails web developer.
+- 🛠 Senior Full-Stack Web developer.
 - ⚓️ Docker sailor and Kubernetes pirate.
-- 📚 Everyday learner.
+- 🌐 DevOps enforcer.
 
 > Most of the code I've written is out there lost in the savage lands of private organization repositories, be careful out there, you might get lost!
 
